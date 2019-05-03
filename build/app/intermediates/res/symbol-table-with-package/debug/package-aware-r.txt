@@ -1,0 +1,6 @@
+com.example.lqliaa
+color orange
+drawable launch_background
+drawable logo
+mipmap ic_launcher
+style LaunchTheme

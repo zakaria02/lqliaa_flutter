@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/thinkwell/Desktop/flutter_projects/SFE/lqliaa/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/thinkwell/Desktop/flutter_projects/SFE/lqliaa/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "9,2",
+                        "startColumns": "8,4",
+                        "startOffsets": "416,55",
+                        "endLines": "9,8",
+                        "endColumns": "44,12",
+                        "endOffsets": "452,407"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,96",
+                        "endLines": "2,9",
+                        "endColumns": "40,12",
+                        "endOffsets": "91,447"
+                    }
+                }
+            ]
+        }
+    ]
+}
